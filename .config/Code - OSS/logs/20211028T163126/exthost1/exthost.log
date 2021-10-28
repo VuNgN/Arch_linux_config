@@ -1,0 +1,18 @@
+[2021-10-28 16:31:27.887] [exthost] [info] extension host started
+[2021-10-28 16:31:27.975] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-28 16:31:27.975] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-10-28 16:31:27.977] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-28 16:31:27.977] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-10-28 16:31:28.034] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-28 16:31:28.034] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-10-28 16:31:28.059] [exthost] [info] eager extensions activated
+[2021-10-28 16:31:28.098] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-28 16:31:28.098] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-28 16:31:28.176] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-28 16:31:28.176] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-28 16:31:28.181] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-28 16:31:28.181] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-28 16:31:28.182] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-28 16:31:28.182] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode-oss/extensions/esbenp.prettier-vscode-9.0.0/dist/extension
+[2021-10-28 17:02:10.786] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-28 17:02:11.790] [exthost] [info] exiting with code 0

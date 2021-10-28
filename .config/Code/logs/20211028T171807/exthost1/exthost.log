@@ -1,0 +1,38 @@
+[2021-10-28 17:18:09.367] [exthost] [info] extension host started
+[2021-10-28 17:18:09.393] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-28 17:18:09.394] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-28 17:18:09.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-28 17:18:09.398] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-28 17:18:09.399] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-28 17:18:09.399] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-10-28 17:18:09.408] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2021-10-28 17:18:09.408] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2021-10-28 17:18:09.417] [exthost] [info] ExtensionService#_doActivateExtension firsttris.vscode-jest-runner, startup: true, activationEvent: '*'
+[2021-10-28 17:18:09.417] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/firsttris.vscode-jest-runner-0.4.47/dist/extension
+[2021-10-28 17:18:09.525] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-10-28 17:18:09.525] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-10-28 17:18:09.626] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+[2021-10-28 17:18:09.626] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/tabnine.tabnine-vscode-3.4.33/out/extension
+[2021-10-28 17:18:09.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-28 17:18:09.724] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-10-28 17:18:09.725] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-28 17:18:09.725] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-10-28 17:18:09.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-28 17:18:09.734] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-10-28 17:18:09.774] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-28 17:18:09.774] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-10-28 17:18:09.785] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-28 17:18:09.785] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-28 17:18:09.863] [exthost] [info] eager extensions activated
+[2021-10-28 17:18:09.872] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-28 17:18:09.872] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-28 17:18:09.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-28 17:18:09.876] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-28 17:18:09.877] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-28 17:18:09.877] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/esbenp.prettier-vscode-9.0.0/dist/extension
+[2021-10-28 17:18:10.226] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-28 17:18:10.226] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/formulahendry.code-runner-0.11.6/out/src/extension
+[2021-10-28 17:18:10.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-28 17:18:10.273] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-28 17:19:31.984] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-28 17:19:32.993] [exthost] [info] exiting with code 0

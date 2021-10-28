@@ -1,0 +1,3 @@
+nitrogen --restore
+ibus-daemon -drxR  
+picom -f &

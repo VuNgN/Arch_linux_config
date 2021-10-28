@@ -1,0 +1,64 @@
+[2021-10-28 17:14:09.850] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2021-10-28 17:14:09.850] [settingssync] [info] Auto Sync is disabled.
+[2021-10-28 17:15:53.186] [settingssync] [info] Did reset the local sync state.
+[2021-10-28 17:15:55.663] [settingssync] [info] Settings: Updated local settings
+[2021-10-28 17:15:55.665] [settingssync] [info] Settings: Updated last synchronized settings
+[2021-10-28 17:15:55.667] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-28 17:15:55.670] [settingssync] [info] Keybindings: Updated last synchronized keybindings
+[2021-10-28 17:15:55.670] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-28 17:15:55.673] [settingssync] [info] Snippets: Updated last synchronized snippets
+[2021-10-28 17:15:55.681] [settingssync] [info] GlobalState: Updated global state ["ces/remindLaterDate","ces/skipSurvey","cpp.1.lastSessionDate","cpp.1.sessionCount","expandSuggestionDocs","github-VuNgN","github-ngocvu229","java.2.lastSessionDate","java.2.sessionCount","javascript.1.editedCount","javascript.1.editedDate","javascript.1.isCandidate","javascript.1.lastSessionDate","javascript.1.sessionCount","javascript.1.skipVersion","nps/isCandidate","nps/lastSessionDate","nps/sessionCount","nps/skipVersion","scm/input:Git:/home/vu/Documents/workspace/React-Redux/TodoApp-react-redux","scm/input:Git:/home/vu/Documents/workspace/react-native-animation/animation_demo_1","scm/input:Git:/home/vu/Documents/workspace/react-native-demo-main","scm/input:Git:/home/vu/Documents/workspace/react-native/TravelAppUI","scm/input:Git:/home/vu/Documents/workspace/react-native/async_storage_demo","scm/input:Git:/home/vu/Documents/workspace/react-native/auth-app-demo","scm/input:Git:/home/vu/Documents/workspace/react-native/cameraDemoApp","scm/input:Git:/home/vu/Documents/workspace/react-native/foodAppUI","scm/input:Git:/home/vu/Documents/workspace/react-native/foot-order-app","scm/input:Git:/home/vu/Documents/workspace/react-native/footAppUI","scm/input:Git:/home/vu/Documents/workspace/react-native/shop","scm/input:Git:/home/vu/Documents/workspace/react-native/shop/react-native-demo","scm/input:Git:/home/vu/data/workspace","scm/input:Git:/home/vu/gnome-terminal","terminal.integrated.showTerminalConfigPrompt","typescript.1.lastSessionDate","typescript.1.sessionCount","workbench.activity.pinnedViewlets2","workbench.explorer.views.state.hidden","workbench.statusbar.hidden","workbench.view.extension.flutter.state.hidden","workbench.view.extension.tabnine-access.state.hidden","workbench.view.extension.test.state.hidden","workbench.view.extensions.state.hidden","workbench.view.sync.state.hidden","scm/input:Git:/home/vu/Documents/workspace/React-native/toDo_App_redux","typescript.1.editedCount","typescript.1.editedDate","commandPalette.mru.cache","commandPalette.mru.counter","fileBasedRecommendations/promptedRecommendations","workbench.welcomePage.walkthroughMetadata","colorThemeData","memento/gettingStartedService","workbench.panel.pinnedPanels"]
+[2021-10-28 17:15:55.681] [settingssync] [info] GlobalState: Updated local ui state
+[2021-10-28 17:15:55.683] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-10-28 17:15:56.434] [settingssync] [info] Extensions: Enabled extension dart-code.dart-code 3.27.2
+[2021-10-28 17:15:56.438] [settingssync] [info] Extensions: Enabled extension ritwickdey.liveserver 5.6.1
+[2021-10-28 17:15:56.440] [settingssync] [info] Extensions: Enabled extension tabnine.tabnine-vscode 3.4.33
+[2021-10-28 17:15:56.784] [settingssync] [info] Extensions: Enabled extension xabikos.javascriptsnippets 1.8.0
+[2021-10-28 17:15:56.792] [settingssync] [info] Extensions: Enabled extension ms-vscode.cpptools 1.7.1
+[2021-10-28 17:15:57.097] [settingssync] [info] Extensions: Enabled extension formulahendry.code-runner 0.11.6
+[2021-10-28 17:15:57.098] [settingssync] [info] Extensions: Enabled extension dsznajder.es7-react-js-snippets 3.1.1
+[2021-10-28 17:15:57.098] [settingssync] [info] Extensions: Enabled extension esbenp.prettier-vscode 9.0.0
+[2021-10-28 17:15:57.099] [settingssync] [info] Extensions: Enabled extension firsttris.vscode-jest-runner 0.4.47
+[2021-10-28 17:15:57.100] [settingssync] [info] Extensions: Enabled extension dart-code.flutter 3.27.0
+[2021-10-28 17:15:57.100] [settingssync] [info] Extensions: Enabled extension dracula-theme.theme-dracula 2.24.0
+[2021-10-28 17:15:57.101] [settingssync] [info] Extensions: Enabled extension orta.vscode-jest 4.2.1
+[2021-10-28 17:15:57.102] [settingssync] [info] Extensions: Enabled extension coenraads.bracket-pair-colorizer 1.0.61
+[2021-10-28 17:15:57.104] [settingssync] [info] Extensions: Enabled extension andys8.jest-snippets 1.8.0
+[2021-10-28 17:16:00.315] [settingssync] [info] Extensions: Installed extension. xabikos.javascriptsnippets 1.8.0
+[2021-10-28 17:16:00.499] [settingssync] [info] Extensions: Installed extension. tabnine.tabnine-vscode 3.4.33
+[2021-10-28 17:16:03.161] [settingssync] [info] Extensions: Installed extension. dart-code.flutter 3.27.0
+[2021-10-28 17:16:05.433] [settingssync] [info] Extensions: Installed extension. dracula-theme.theme-dracula 2.24.0
+[2021-10-28 17:16:06.192] [settingssync] [info] Extensions: Installed extension. andys8.jest-snippets 1.8.0
+[2021-10-28 17:16:07.110] [settingssync] [info] Extensions: Installed extension. dsznajder.es7-react-js-snippets 3.1.1
+[2021-10-28 17:16:07.921] [settingssync] [info] Extensions: Installed extension. orta.vscode-jest 4.2.1
+[2021-10-28 17:16:08.853] [settingssync] [info] Extensions: Installed extension. coenraads.bracket-pair-colorizer 1.0.61
+[2021-10-28 17:16:08.941] [settingssync] [info] Extensions: Installed extension. formulahendry.code-runner 0.11.6
+[2021-10-28 17:16:09.229] [settingssync] [info] Extensions: Installed extension. dart-code.dart-code 3.27.2
+[2021-10-28 17:16:27.018] [settingssync] [info] Extensions: Installed extension. ritwickdey.liveserver 5.6.1
+[2021-10-28 17:17:07.832] [settingssync] [info] Extensions: Installed extension. ms-vscode.cpptools 1.7.1
+[2021-10-28 17:17:08.022] [settingssync] [info] Extensions: Installed extension. firsttris.vscode-jest-runner 0.4.47
+[2021-10-28 17:17:17.149] [settingssync] [info] Extensions: Installed extension. esbenp.prettier-vscode 9.0.0
+[2021-10-28 17:17:17.151] [settingssync] [info] Extensions: Updated last synchronized extensions.
+[2021-10-28 17:17:17.216] [settingssync] [info] Auto Sync: Started
+[2021-10-28 17:17:17.217] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-28 17:17:17.831] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-28 17:17:17.833] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-28 17:17:17.834] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-28 17:17:20.154] [settingssync] [info] GlobalState: Updated remote ui state
+[2021-10-28 17:17:20.162] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-10-28 17:17:20.197] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-28 17:17:20.199] [settingssync] [info] Sync done. Took 2418ms
+[2021-10-28 17:17:21.720] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-10-28 17:17:22.018] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-28 17:17:22.020] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-28 17:17:22.022] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-28 17:17:22.030] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-28 17:17:22.079] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-28 17:17:22.080] [settingssync] [info] Sync done. Took 101ms
+[2021-10-28 17:17:55.081] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-10-28 17:17:56.051] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-28 17:17:56.052] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-28 17:17:56.053] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-28 17:17:56.062] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-28 17:17:56.096] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-28 17:17:56.096] [settingssync] [info] Sync done. Took 49ms

@@ -1,0 +1,9 @@
+Info 2021-10-28 18:12:28: Experimentation service retrieved: [object Object]
+Info 2021-10-28 18:12:28: ZMQ install verified.
+Info 2021-10-28 18:12:58: Shutting down notebooks for 8b33d7e3-abc4-4d03-94bb-b43bf89712a2
+Info 2021-10-28 18:12:58: Disposing HostJupyterExecution 462db644-392b-4c34-92e4-9dc20ecc9f0a
+Info 2021-10-28 18:12:58: Disposing super HostJupyterExecution 462db644-392b-4c34-92e4-9dc20ecc9f0a
+Info 2021-10-28 18:12:58: Disposing HostJupyterExecution 462db644-392b-4c34-92e4-9dc20ecc9f0a
+Info 2021-10-28 18:12:58: Finished disposing HostJupyterExecution  462db644-392b-4c34-92e4-9dc20ecc9f0a
+Info 2021-10-28 18:12:58: Cleaning up server cache 462db644-392b-4c34-92e4-9dc20ecc9f0a
+Info 2021-10-28 18:12:58: Finished disposing HostJupyterExecution  462db644-392b-4c34-92e4-9dc20ecc9f0a
