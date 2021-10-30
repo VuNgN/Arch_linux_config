@@ -1,0 +1,108 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+User belongs to experiment group 'pythonSortEnvs'
+User belongs to experiment group 'pythonRunFailedTestsButtonDisplayed'
+User belongs to experiment group 'pythonRefreshTestsButtonDisplayed'
+User belongs to experiment group 'pythonRememberDebugConfig'
+> conda info --json
+> /bin/python ~/.vscode/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+> /bin/python2 ~/.vscode/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+> /sbin/python ~/.vscode/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+> /sbin/python2 ~/.vscode/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+> /usr/bin/python2 ~/.vscode/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+> /usr/sbin/python ~/.vscode/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+> /usr/sbin/python2 ~/.vscode/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python
+Starting Pylance language server.
+> conda --version
+> /bin/python -m autopep8 --diff ~/.config/qtile/config.py
+cwd: ~/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client
+> /bin/python -c "import autopep8"
+> /bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /bin/python -m autopep8 --diff ~/.config/qtile/config.py
+cwd: ~/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client
+> /bin/python -c "import autopep8"
+> /bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /bin/python -m autopep8 --diff ~/.config/qtile/config.py.17a147936470b44b305850fa3813441d.tmp
+cwd: ~/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client
+> /bin/python -c "import autopep8"
+> /bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /bin/python -m autopep8 --diff ~/.config/qtile/config.py.17a147936470b44b305850fa3813441d.tmp
+cwd: ~/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client
+> /bin/python -c "import autopep8"
+> /bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /bin/python -m autopep8 --diff ~/.config/qtile/config.py.17a147936470b44b305850fa3813441d.tmp
+cwd: ~/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client
+> /bin/python -c "import autopep8"
+> /bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /bin/python -m autopep8 --diff ~/.config/qtile/config.py.17a147936470b44b305850fa3813441d.tmp
+cwd: ~/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client
+> /bin/python -c "import autopep8"
+> /bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /bin/python -m autopep8 --diff ~/.config/qtile/config.py.17a147936470b44b305850fa3813441d.tmp
+cwd: ~/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client
+> /bin/python -c "import autopep8"
+> /bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> /bin/python -m autopep8 --diff ~/.config/qtile/config.py.17a147936470b44b305850fa3813441d.tmp
+cwd: ~/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client
+> /bin/python -c "import autopep8"
+> /bin/python -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+Error 2021-10-29 17:15:56: Error while running worker[Worker 2]. undefined
+Error 2021-10-29 17:15:56: Error while running worker[Worker 1]. undefined
+Error 2021-10-29 17:15:56: Python Extension: promptToInstall [Canceled: Canceled
+	at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9012)
+	at b.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:682)
+	at o (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32535)
+	at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30185)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)]
+Error 2021-10-29 17:15:56: Python Extension: promptToInstall [Canceled: Canceled
+	at Object.n [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at i.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:9012)
+	at b.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:682)
+	at o (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32535)
+	at Socket.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30185)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)]

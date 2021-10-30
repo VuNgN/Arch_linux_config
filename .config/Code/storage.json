@@ -3,6 +3,12 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/vu/Documents/workspace/testApp"
+            },
+            {
+                "folderUri": "file:///home/vu/arch_configs"
+            },
+            {
                 "fileUri": "file:///home/vu/.config/qtile/config.py"
             }
         ]
@@ -47,6 +53,31 @@
                                     "id": "workbench.action.reopenClosedEditor",
                                     "label": "&&Reopen Closed Editor",
                                     "enabled": false
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/vu/Documents/workspace/testApp",
+                                        "path": "/home/vu/Documents/workspace/testApp",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/workspace/testApp"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/vu/arch_configs",
+                                        "path": "/home/vu/arch_configs",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/arch_configs"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1501,7 +1532,7 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/vu/.config/Code/Backups/1635434738897",
+            "backupPath": "/home/vu/.config/Code/Backups/1635586106227",
             "uiState": {
                 "mode": 1,
                 "x": 5,

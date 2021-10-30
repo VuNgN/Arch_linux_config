@@ -1,8 +1,0 @@
-[2021-10-28 21:53:27.683] [renderer1] [info] Starting extension host with pid 184123.
-[2021-10-28 21:53:28.127] [renderer1] [error] [Extension Host] (node:184123) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)
-[2021-10-28 21:53:30.872] [renderer1] [error] [Extension Host] validating /home/vu/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/3.7.25/x86_64-unknown-linux-musl/TabNine timeout
-[2021-10-28 22:06:16.279] [renderer1] [error] Cannot read property 'items' of undefined: TypeError: Cannot read property 'items' of undefined
-	at completionLengthMeasure (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:52:368561)
-	at p (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:52:371225)
-	at async U.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:180703)

@@ -1,0 +1,5 @@
+2021/10/29-20:39:48.455 c955 Creating DB /home/vu/.config/discord/Local Storage/leveldb since it was missing.
+2021/10/29-20:39:48.458 c955 Reusing MANIFEST /home/vu/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/10/29-22:19:59.657 c966 Level-0 table #5: started
+2021/10/29-22:19:59.662 c966 Level-0 table #5: 13370 bytes OK
+2021/10/29-22:19:59.663 c966 Delete type=0 #3

@@ -1,0 +1,190 @@
+[2021-10-30 16:28:26.878] [exthost] [info] extension host started
+[2021-10-30 16:28:26.929] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-30 16:28:26.929] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-30 16:28:26.935] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-10-30 16:28:26.935] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension
+[2021-10-30 16:28:26.998] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-10-30 16:28:26.998] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension
+[2021-10-30 16:28:27.186] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-30 16:28:27.186] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-30 16:28:27.189] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-30 16:28:27.189] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-10-30 16:28:27.208] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2021-10-30 16:28:27.209] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2021-10-30 16:28:27.232] [exthost] [info] ExtensionService#_doActivateExtension firsttris.vscode-jest-runner, startup: true, activationEvent: '*'
+[2021-10-30 16:28:27.232] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/firsttris.vscode-jest-runner-0.4.47/dist/extension
+[2021-10-30 16:28:27.401] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-10-30 16:28:27.401] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-10-30 16:28:27.664] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+[2021-10-30 16:28:27.664] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/tabnine.tabnine-vscode-3.4.33/out/extension
+[2021-10-30 16:28:27.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-30 16:28:27.800] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-10-30 16:28:27.803] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-30 16:28:27.803] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-10-30 16:28:27.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-30 16:28:27.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-10-30 16:28:28.093] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-10-30 16:28:28.093] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.3/out/extension_renderer/index.js
+[2021-10-30 16:28:28.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-30 16:28:28.094] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-10-30 16:28:28.113] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-30 16:28:28.113] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-30 16:28:28.198] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-10-30 16:28:28.198] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/ms-python.vscode-pylance-2021.10.3/dist/extension.bundle.js
+[2021-10-30 16:28:28.310] [exthost] [info] eager extensions activated
+[2021-10-30 16:28:28.327] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-30 16:28:28.327] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-30 16:28:28.333] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-30 16:28:28.333] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-30 16:28:28.335] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-30 16:28:28.335] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/esbenp.prettier-vscode-9.0.0/dist/extension
+[2021-10-30 16:28:28.743] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-30 16:28:28.743] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vu/.vscode/extensions/formulahendry.code-runner-0.11.6/out/src/extension
+[2021-10-30 16:28:28.785] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-30 16:28:28.785] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-30 16:28:30.313] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:28:30.313] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:30:30.551] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:30:30.551] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:30:31.857] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:30:31.857] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:30:35.346] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:30:35.347] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:32:08.330] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:32:08.330] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:117311
+	at async v.provideDocumentHighlights (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:171033)
+[2021-10-30 16:32:08.518] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:32:08.518] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:117311
+	at async v.provideDocumentHighlights (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:171033)
+[2021-10-30 16:35:24.620] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:35:24.620] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:39:47.089] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:39:47.089] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:40:38.946] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:40:38.946] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:41:05.757] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:41:05.758] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:41:23.903] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:41:23.903] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:121238
+	at async T.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172403)
+[2021-10-30 16:41:27.395] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:41:27.395] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:121238
+	at async T.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172403)
+[2021-10-30 16:42:02.373] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:42:02.373] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:49:16.840] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:49:16.840] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:50:38.796] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:50:38.796] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:52:55.022] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:52:55.022] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:52:55.223] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:52:55.223] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:52:59.071] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:52:59.071] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:53:12.028] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:53:12.028] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:121238
+	at async T.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:172403)
+[2021-10-30 16:53:28.594] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:53:28.594] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:53:30.062] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:53:30.062] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:53:33.299] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:53:33.299] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:54:40.517] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:54:40.517] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:115761
+	at async t.provideDefinition (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:169202)
+[2021-10-30 16:55:16.258] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-30 16:55:16.258] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/vu/.vscode/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:113719
+	at async s.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170095)
+[2021-10-30 16:56:10.863] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-30 16:56:11.881] [exthost] [info] exiting with code 0

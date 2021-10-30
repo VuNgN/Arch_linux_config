@@ -25,5 +25,8 @@
     "files.associations": {
         "*.js": "javascriptreact"
     },
-    "workbench.colorTheme": "Dracula"
+    "workbench.colorTheme": "Dracula",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    }
 }

@@ -1,0 +1,5 @@
+file:///home/vu/Documents/workspace/testApp/.eslintrc.js {"mtime":1635438292065,"ctime":1635438292029,"size":74,"etag":"37nd38oj92c","orphaned":false,"typeId":""}
+module.exports = {
+  root: true,
+  extends: '@react-native-community',
+};

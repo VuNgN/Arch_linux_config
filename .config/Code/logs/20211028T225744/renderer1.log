@@ -1,0 +1,4 @@
+[2021-10-28 22:57:44.847] [renderer1] [info] Starting extension host with pid 239276.
+[2021-10-28 22:57:45.259] [renderer1] [error] [Extension Host] (node:239276) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-10-28 22:57:47.553] [renderer1] [error] [Extension Host] validating /home/vu/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/3.7.25/x86_64-unknown-linux-musl/TabNine timeout

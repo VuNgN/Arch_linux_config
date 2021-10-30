@@ -1,3 +1,7 @@
 nitrogen --restore
-ibus-daemon -drxR  
+export GTK_IM_MODULE='ibus'
+export QT_IM_MODULE='ibus'
+export XMODIFIERS='@im=ibus'
+ibus-daemon -drxR
+xrandr --output eDP-1 --mode 1920x1080 --output HDMI-1-1 --mode 1440x900 --right-of eDP-1  
 picom -f &

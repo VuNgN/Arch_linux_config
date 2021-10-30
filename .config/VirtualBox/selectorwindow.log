@@ -1,0 +1,19 @@
+00:00:00.289164 VirtualBox GUI VM Selector Window 6.1.28 r147628 linux.amd64 (Oct 20 2021 21:54:22) release log
+00:00:00.289165 Log opened 2021-10-29T09:10:33.066830000Z
+00:00:00.289166 Build Type: release
+00:00:00.289167 OS Product: Linux
+00:00:00.289168 OS Release: 5.14.14-arch1-1
+00:00:00.289168 OS Version: #1 SMP PREEMPT Wed, 20 Oct 2021 21:35:18 +0000
+00:00:00.289181 DMI Product Name: 81Y4
+00:00:00.289185 DMI Product Version: IdeaPad Gaming 3 15IMH05
+00:00:00.289187 Firmware type: UEFI
+00:00:00.290272 Secure Boot: Disabled
+00:00:00.290314 Host RAM: 7817MB (7.6GB) total, 5801MB (5.6GB) available
+00:00:00.290316 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.290316 Process ID: 33647
+00:00:00.290317 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.290356 Qt version: 5.15.2
+00:00:00.297177 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.297192 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.601092 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 963x553 x 946x516
+00:00:00.601211 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 963x23 x 946x516

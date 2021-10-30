@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo-cli": "^4.12.10",
+    "react-native": "^0.66.1"
+  }
+}

@@ -1,0 +1,36 @@
+Starting Jest Session
+all-tests-0 is scheduled
+watch-tests-1 is scheduled
+not-test-2 is scheduled
+Jest Session Started
+ PASS  __tests__/App-test.js
+  ✓ renders correctly (2969 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        4.77 s
+Ran all test suites.
+
+--watch is not supported without git/hg, please use --watchAll 
+watch-all-tests-3 is scheduled
+ PASS  __tests__/App-test.js
+  ✓ renders correctly (300 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        1.108 s, estimated 5 s
+Ran all test suites.
+
+ PASS  __tests__/App-test.js
+  ✓ renders correctly (448 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        1.304 s
+Ran all test suites.
+
+Stopping Jest Session
+Jest Session Stopped

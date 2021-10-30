@@ -1,0 +1,3 @@
+[testApp]: Scheduled test run "watch-tests-1" for "orta.vscode-jest:testApp"
+
+[1m--watch[22m is not supported without git/hg, please use --watchAll 
